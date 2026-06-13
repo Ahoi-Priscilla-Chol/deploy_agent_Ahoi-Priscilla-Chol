@@ -22,7 +22,7 @@ attendance_tracker_<input>/
 └── reports/
     └── reports.log
 
-## How to trigger the aechive feature
+## How to trigger the archive feature
 
 Press Ctrl+C at any point while the script is running.
 The SIGINT trap will:
@@ -30,7 +30,7 @@ The SIGINT trap will:
 2. Delete the incomplete directory to keep the workspace clean
 3. Exit
 
-## Running the trcker after setup
+## Running the tracker after setup
 
 cd attendance_tracker_<input>
 python3 attendance_checker.py
@@ -38,4 +38,4 @@ python3 attendance_checker.py
 ## Requirements
 - Bash
 - python3
-- tar and sed (standard on linux / macOS / Git Bash on Windows)
+- tar and sed (standard on Linux / macOS / Git Bash on Windows)
