@@ -13,14 +13,22 @@ You will be prompted for:
   - If yes: new warning % and failure % (defaults: 75% / 50%)
 
 ## Project structure created
-
+ 
+```
 attendance_tracker_<input>/
+
 ├── attendance_checker.py
+
 ├── Helpers/
+
 │   ├── assets.csv
+
 │   └── config.json
+
 └── reports/
-    └── reports.log
+
+└── reports.log
+```
 
 ## How to trigger the archive feature
 
