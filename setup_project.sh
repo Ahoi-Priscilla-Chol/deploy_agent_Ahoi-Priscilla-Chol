@@ -149,9 +149,9 @@ do
 done
 
 echo ""
- if $ALL_OK; then
+if $ALL_OK; then
    echo "setup complete! '$PROJECT_DIR' is ready."
-   echo "To run: cd $PROJECT_DIR $$ python3 attendance_checker.py"
+   echo "To run: cd $PROJECT_DIR && python3 attendance_checker.py"
 else
    echo "Setup finished with warnings. Some files are missing."
 fi    
