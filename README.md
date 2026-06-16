@@ -1,5 +1,7 @@
 # deploy_agent - student Attendance Tracker Setup
 
+https://www.loom.com/share/fd88e76b56674690b89564433ec26d01
+
 A shell script that automates the full bootstrapping of the student Attendance Tracker project work.
 
 ## How to run
